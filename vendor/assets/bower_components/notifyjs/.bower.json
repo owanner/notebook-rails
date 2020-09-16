@@ -1,0 +1,12 @@
+{
+  "name": "notifyjs",
+  "_cacheHeaders": {
+    "ETag": "W/\"4d8b75aa18f3151d8410b937dde90c30\"",
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"4d8b75a",
+  "main": "index",
+  "_source": "https://github.com/jpillora/notifyjs/tree/master/dist",
+  "_target": "*",
+  "_originalSource": "https://github.com/jpillora/notifyjs/tree/master/dist"
+}
